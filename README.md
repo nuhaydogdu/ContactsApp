@@ -13,7 +13,7 @@ This simple web application allows you to add, update, view and delete contact i
 
 - HTML
 - CSS
--JavaScript
+- JavaScript
 - DOM Manipulation
 
 
